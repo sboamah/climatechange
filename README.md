@@ -1,4 +1,4 @@
-# HAR-250 - Climate Change Project
+# HAR250 - Climate Change Project
 Hurricanes and Global Temperature Trends
 
 ### Idea
